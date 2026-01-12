@@ -1,2 +1,2 @@
 # Miprimerrepo_azr
-Soy alejandro zurita y este es mi primer repositorio de github lol
+Soy alejandro zurita y este es mi practica de repositorios de git desde vs code<>
